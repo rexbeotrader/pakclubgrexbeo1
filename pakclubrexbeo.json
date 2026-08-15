@@ -1,16 +1,16 @@
 {
   "matching_urls": [
-    "https://pakclub.cc/WinGo/WinGo_5M",
-    "https://pakclub.cc/WinGo/WinGo_30S",
-    "https://pakclub.cc/WinGo/WinGo_1M",
-    "https://pakclub.cc/WinGo/WinGo_3M"
+    "https://pakclub.vip/WinGo/WinGo_30S",
+    "https://pakclub.vip/WinGo/WinGo_1M",
+    "https://pakclub.vip/WinGo/WinGo_3M",
+    "https://pakclub.vip/WinGo/WinGo_5M"
   ],
-  "deposit_url": "https://pakclub.cc/wallet/recharge",
-  "login_url": "https://pakclub.cc/login",
-  "register_url": "https://pakclub.cc/register?inviteCode=6BYETVN",
+  "deposit_url": "https://pakclub.vip/wallet/recharge",
+  "login_url": "https://pakclub.vip/login",
+  "register_url": "https://pakclub.vip/register?inviteCode=6BYETVN",
   "telegram_url": "https://whatsapp.com/channel/0029VbCNMrR1XquXO0G7Sy0G",
-  "home_url": "https://pakclub.cc",
-  "minimum_deposit_number": 500,
+  "home_url": "https://pakclub.vip",
+  "minimum_deposit_number": 1,
   "allowed_numbers": ["3456778910"],
   "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/pakaudio/loginfailed.mp3",
   "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/pakaudio/registeraudio.mp3",
