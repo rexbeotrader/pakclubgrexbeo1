@@ -1,9 +1,9 @@
 {
   "matching_urls": [
-    "https://pakclub.cc/WinGo/WinGo_5M",
     "https://pakclub.cc/WinGo/WinGo_30S",
     "https://pakclub.cc/WinGo/WinGo_1M",
-    "https://pakclub.cc/WinGo/WinGo_3M"
+    "https://pakclub.cc/WinGo/WinGo_3M",
+    "https://pakclub.cc/WinGo/WinGo_5M"
   ],
   "deposit_url": "https://pakclub.cc/wallet/recharge",
   "login_url": "https://pakclub.cc/login",
@@ -15,6 +15,6 @@
   "audio_login": "https://github.com/rexbeotrader/loginpage/raw/refs/heads/main/2.mp3",
   "audio_register": "https://github.com/rexbeotrader/registerpage/raw/refs/heads/main/1.mp3",
   "home_audio": "https://github.com/rexbeotrader/homepage/raw/refs/heads/main/3.mp3",
-  "audio_deposit_failed": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/pakaudio/matchingurldepositfailed.mp3",
+  "audio_deposit_failed": "https://github.com/rexbeotrader/depositlow/raw/refs/heads/main/4.mp3",
   "audio_deposit_verified": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/pakaudio/matchingurldepositverified.mp3"
 }
